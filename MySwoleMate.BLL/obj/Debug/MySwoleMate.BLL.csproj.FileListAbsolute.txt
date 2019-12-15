@@ -1,0 +1,19 @@
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate.BLL\obj\Debug\MySwoleMate.BLL.csprojResolveAssemblyReference.cache
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate.BLL\bin\Debug\MySwoleMate.BLL.dll
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate.BLL\bin\Debug\MySwoleMate.BLL.pdb
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate.BLL\bin\Debug\MySwoleMate.DAL.dll
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate.BLL\bin\Debug\MySwoleMate.Models.dll
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate.BLL\bin\Debug\MySwoleMate.DAL.pdb
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate.BLL\bin\Debug\MySwoleMate.Models.pdb
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate.BLL\obj\Debug\MySwoleMate.BLL.dll
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate.BLL\obj\Debug\MySwoleMate.BLL.pdb
+C:\Users\cerser\Downloads\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate.BLL\bin\Debug\MySwoleMate.BLL.dll
+C:\Users\cerser\Downloads\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate.BLL\bin\Debug\MySwoleMate.BLL.pdb
+C:\Users\cerser\Downloads\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate.BLL\bin\Debug\MySwoleMate.DAL.dll
+C:\Users\cerser\Downloads\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate.BLL\bin\Debug\MySwoleMate.Models.dll
+C:\Users\cerser\Downloads\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate.BLL\bin\Debug\MySwoleMate.DAL.pdb
+C:\Users\cerser\Downloads\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate.BLL\bin\Debug\MySwoleMate.Models.pdb
+C:\Users\cerser\Downloads\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate.BLL\obj\Debug\MySwoleMate.BLL.csprojAssemblyReference.cache
+C:\Users\cerser\Downloads\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate.BLL\obj\Debug\MySwoleMate.BLL.csproj.CopyComplete
+C:\Users\cerser\Downloads\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate.BLL\obj\Debug\MySwoleMate.BLL.dll
+C:\Users\cerser\Downloads\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate.BLL\obj\Debug\MySwoleMate.BLL.pdb

@@ -1,0 +1,9 @@
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate.Models\bin\Debug\MySwoleMate.Models.dll
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate.Models\bin\Debug\MySwoleMate.Models.pdb
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate.Models\obj\Debug\MySwoleMate.Models.dll
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate.Models\obj\Debug\MySwoleMate.Models.pdb
+C:\Users\cerser\Downloads\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate.Models\bin\Debug\MySwoleMate.Models.dll
+C:\Users\cerser\Downloads\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate.Models\bin\Debug\MySwoleMate.Models.pdb
+C:\Users\cerser\Downloads\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate.Models\obj\Debug\MySwoleMate.Models.csprojAssemblyReference.cache
+C:\Users\cerser\Downloads\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate.Models\obj\Debug\MySwoleMate.Models.dll
+C:\Users\cerser\Downloads\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate.Models\obj\Debug\MySwoleMate.Models.pdb

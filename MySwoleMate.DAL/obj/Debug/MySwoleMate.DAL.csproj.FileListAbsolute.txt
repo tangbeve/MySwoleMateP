@@ -1,0 +1,15 @@
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate.DAL\obj\Debug\MySwoleMate.DAL.csprojResolveAssemblyReference.cache
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate.DAL\bin\Debug\MySwoleMate.DAL.dll
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate.DAL\bin\Debug\MySwoleMate.DAL.pdb
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate.DAL\bin\Debug\MySwoleMate.Models.dll
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate.DAL\bin\Debug\MySwoleMate.Models.pdb
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate.DAL\obj\Debug\MySwoleMate.DAL.dll
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate.DAL\obj\Debug\MySwoleMate.DAL.pdb
+C:\Users\cerser\Downloads\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate.DAL\bin\Debug\MySwoleMate.DAL.dll
+C:\Users\cerser\Downloads\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate.DAL\bin\Debug\MySwoleMate.DAL.pdb
+C:\Users\cerser\Downloads\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate.DAL\bin\Debug\MySwoleMate.Models.dll
+C:\Users\cerser\Downloads\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate.DAL\bin\Debug\MySwoleMate.Models.pdb
+C:\Users\cerser\Downloads\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate.DAL\obj\Debug\MySwoleMate.DAL.csprojAssemblyReference.cache
+C:\Users\cerser\Downloads\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate.DAL\obj\Debug\MySwoleMate.DAL.csproj.CopyComplete
+C:\Users\cerser\Downloads\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate.DAL\obj\Debug\MySwoleMate.DAL.dll
+C:\Users\cerser\Downloads\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate.DAL\obj\Debug\MySwoleMate.DAL.pdb
